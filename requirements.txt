@@ -1,0 +1,13 @@
+openai-whisper
+pyannote.audio
+torch
+librosa
+pydub
+langchain
+huggingface_hub
+transformers
+torchaudio
+ffmpeg
+django
+djangorestframework
+
