@@ -15,7 +15,7 @@ result = model.transcribe(demo_audio, language = "en")
 print(result["text"])
 
 
-# hface_token = "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"
+# hface_token = "your_huggingface_token_here" 
 
 pipeline = Pipeline.from_pretrained("pyannote/speaker-diarization", use_auth_token=hface_token)
 diarization = pipeline(demo_audio)
