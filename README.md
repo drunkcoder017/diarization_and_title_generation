@@ -1,4 +1,5 @@
-AI-Powered Django Application
+AI-Powered Django Application: 
+
 A comprehensive Django application featuring Audio Transcription with Speaker Diarization and AI-Powered Blog Title Generation. This project combines advanced speech processing capabilities with natural language processing to deliver two powerful AI features.
 
 
